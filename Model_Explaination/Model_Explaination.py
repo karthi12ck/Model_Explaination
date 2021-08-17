@@ -1,4 +1,5 @@
 from shapash.explainer.smart_explainer import SmartExplainer
+import pandas as pd
 
 class Model_Explaination():
     def __init__(self):
